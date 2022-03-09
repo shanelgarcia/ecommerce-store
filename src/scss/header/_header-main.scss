@@ -1,0 +1,42 @@
+@use './../variables/brand-color' as *;
+
+.page-header-main{
+    background-color: $header-main-bg;
+    display: flex;
+    justify-content: space-evenly;
+    padding:1rem;
+
+    a:hover{
+        text-decoration: none;
+        color:$page-header-link-hover-color;
+    }
+
+    .header-main-branding{
+        display: flex;
+        .page-logo{
+            width:100px;
+            height:100px;
+        }
+    
+        .page-title{
+            font-style: oblique;
+            font-weight: 500;
+            font-size: 1.8rem;
+        }
+    }
+    
+    .header-main-nav{
+        li{
+            width:7rem;
+            height:7rem;
+        }
+    
+        li:hover{
+            background-color: #ffa500;
+        }
+    
+        .fa-magnifying-glass{
+            font-size: 2.5rem;
+        }
+    }
+}

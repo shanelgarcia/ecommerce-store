@@ -1,0 +1,32 @@
+{
+  "name": "sunnycoast-app",
+  "version": "1.0.0",
+  "description": "App that let's you view products in the SunnyCoastal mall.",
+  "scripts": {
+    "start": "npx parcel src/index.html",
+    "build": "npx parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shanelgarcia/ecommerce-store.git"
+  },
+  "keywords": [
+    "lab01",
+    "ecommerce",
+    "sunnycoast"
+  ],
+  "author": "Shanel Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shanelgarcia/ecommerce-store/issues"
+  },
+  "homepage": "https://github.com/shanelgarcia/ecommerce-store#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "esbuild": "^0.14.21",
+    "firebase": "^9.6.6",
+    "parcel": "^2.3.1",
+    "process": "^0.11.10",
+    "sass": "^1.49.7"
+  }
+}

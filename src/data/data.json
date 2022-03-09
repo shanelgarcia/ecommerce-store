@@ -1,0 +1,78 @@
+{
+  "product":
+  {
+    "-Mvggp_EKVCbpK38O81F": {
+      "key": "-Mvggp_EKVCbpK38O81F",
+      "sku": "-Mvggp_EKVCbpK38O81FA",
+      "image": "http://dummyimage.com/176x100.png/dddddd/000000",
+      "title": "Taho",
+      "price": "2.99",
+      "category": "Desserts",
+      "description": "18oz of sweetened Soft Tofu with tapioca pearls and sweetener."
+    },
+    "-Mvggp_FlYGEU3TIRL2g": {
+      "key": "-Mvggp_FlYGEU3TIRL2g",
+      "sku": "-Mvggp_FlYGEU3TIRL2gB",
+      "image": "http://dummyimage.com/105x100.png/cc0000/ffffff",
+      "title": "Halo - Halo",
+      "price": "5.99",
+      "category": "Desserts",
+      "description": "18oz of ice shaving consisting of condensed milk, grass jelly, red beans, pudding, and macapuno. Topped with ube-flavored ice cream."
+    },
+    "-Mvggp_GXe2AXFceWG2r": {
+      "key": "-Mvggp_GXe2AXFceWG2r",
+      "sku": "-Mvggp_GXe2AXFceWG2rC",
+      "image": "http://dummyimage.com/166x100.png/dddddd/000000",
+      "title": "Kwek Kwek",
+      "price": "6.99",
+      "category": "Street Foods",
+      "description": "12 pieces of deep fried quailed eggs, coated with orange batter."
+    },
+    "-Mvggp_HmrB8ob5s7_iv": {
+      "key": "-Mvggp_HmrB8ob5s7_iv",
+      "sku": "-Mvggp_HmrB8ob5s7_ivD",
+      "image": "http://dummyimage.com/143x100.png/cc0000/ffffff",
+      "title": "Lechon Kawali Platter",
+      "price": "19.99",
+      "category": "Dinner",
+      "description": "Crispy deep fried pork belly. Good for 5 people."
+    },
+    "-Mvggp_I9TtbUDdka7Bg": {
+      "key": "-Mvggp_I9TtbUDdka7Bg",
+      "sku": "-Mvggp_I9TtbUDdka7BgE",
+      "image": "http://dummyimage.com/203x100.png/dddddd/000000",
+      "title": "Lumpia",
+      "price": "9.99",
+      "category": "Dinner",
+      "description": "6 pieces of deep fried spring rolls."
+    },
+    "-Mvggp_JnSmkPs0ziHij": {
+      "key": "-Mvggp_JnSmkPs0ziHij",
+      "sku": "-Mvggp_JnSmkPs0ziHijF",
+      "image": "http://dummyimage.com/227x100.png/cc0000/ffffff",
+      "title": "BBQ Platter",
+      "price": "18.99",
+      "category": "Dinner",
+      "description": "12 pieces of grilled pork skewers."
+    }
+  },
+  "category":
+  {
+    "-Mvgqty22JvwcTwRjhTj": {
+      "category_name": "Dessert",
+      "category_description": "Sweets and Pastries"
+    },
+    "-Mvgqty3RDZOLO7Bx7F5": {
+      "category_name": "Dinner",
+      "category_description": "Lunch and Dinner Entries"
+    },
+    "-Mvgqty3RDZOLO7Bx7F6": {
+      "category_name": "Breakfast",
+      "category_description": "Food only available between 7am to 10am"
+    },
+    "-Mvgqty4tQQM3mtuZOrN": {
+      "category_name": "Street Foods",
+      "category_description": "Traditional Street Foods"
+    }
+  }
+}
