@@ -1,0 +1,48 @@
+
+@use './../../variables/brand-color' as *;
+.product-card{
+    border: $product-card-border-settings;
+    border-radius: 20px;
+    width:300px;
+    padding: 1.5rem;
+// product-card height must match the image and desc.
+//change color of the buttons and center it
+
+    .product-card-details{
+        margin-bottom: 2.5rem;
+
+        img{
+            width: 100%;
+            height:200px;
+            margin-bottom: 1rem;
+        }
+
+        span{
+           display: inline-block;
+           width: 48%;
+        }
+
+        .product-card-title{
+            text-align: left;
+            font-weight: 700;
+        }
+        .product-card-price{
+            text-align: right;
+            font-style: italic;
+        }
+    }
+    .product-card-btns{
+        width: 100%;
+        height: 50px;
+
+        button{
+            width: 46%;
+            padding:0.5rem;
+            border: none;
+            border-radius: 20px;
+            background-color: $product-card-button-bg-color;
+            margin: 2px;
+            color: $product-card-button-text-color;
+        }
+    }
+}
