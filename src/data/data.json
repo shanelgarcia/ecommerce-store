@@ -4,7 +4,7 @@
     "-Mvggp_EKVCbpK38O81F": {
       "key": "-Mvggp_EKVCbpK38O81F",
       "sku": "-Mvggp_EKVCbpK38O81FA",
-      "image": "http://dummyimage.com/176x100.png/dddddd/000000",
+      "image": "taho",
       "title": "Taho",
       "price": "2.99",
       "category": "Desserts",
@@ -13,7 +13,7 @@
     "-Mvggp_FlYGEU3TIRL2g": {
       "key": "-Mvggp_FlYGEU3TIRL2g",
       "sku": "-Mvggp_FlYGEU3TIRL2gB",
-      "image": "http://dummyimage.com/105x100.png/cc0000/ffffff",
+      "image": "halo-halo",
       "title": "Halo - Halo",
       "price": "5.99",
       "category": "Desserts",
@@ -22,7 +22,7 @@
     "-Mvggp_GXe2AXFceWG2r": {
       "key": "-Mvggp_GXe2AXFceWG2r",
       "sku": "-Mvggp_GXe2AXFceWG2rC",
-      "image": "http://dummyimage.com/166x100.png/dddddd/000000",
+      "image": "kwekkwek",
       "title": "Kwek Kwek",
       "price": "6.99",
       "category": "Street Foods",
@@ -31,7 +31,7 @@
     "-Mvggp_HmrB8ob5s7_iv": {
       "key": "-Mvggp_HmrB8ob5s7_iv",
       "sku": "-Mvggp_HmrB8ob5s7_ivD",
-      "image": "http://dummyimage.com/143x100.png/cc0000/ffffff",
+      "image": "lechonkawali",
       "title": "Lechon Kawali Platter",
       "price": "19.99",
       "category": "Dinner",
@@ -40,7 +40,7 @@
     "-Mvggp_I9TtbUDdka7Bg": {
       "key": "-Mvggp_I9TtbUDdka7Bg",
       "sku": "-Mvggp_I9TtbUDdka7BgE",
-      "image": "http://dummyimage.com/203x100.png/dddddd/000000",
+      "image": "lumpia",
       "title": "Lumpia",
       "price": "9.99",
       "category": "Dinner",
@@ -49,7 +49,7 @@
     "-Mvggp_JnSmkPs0ziHij": {
       "key": "-Mvggp_JnSmkPs0ziHij",
       "sku": "-Mvggp_JnSmkPs0ziHijF",
-      "image": "http://dummyimage.com/227x100.png/cc0000/ffffff",
+      "image": "bbq",
       "title": "BBQ Platter",
       "price": "18.99",
       "category": "Dinner",

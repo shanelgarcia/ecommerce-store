@@ -486,6 +486,7 @@ header ul {
   width: 100%;
   height: 200px;
   margin-bottom: 1rem;
+  display: block;
 }
 .product-card .product-card-details span {
   display: inline-block;
@@ -511,6 +512,10 @@ header ul {
   background-color: #003D80;
   margin: 2px;
   color: #FFF;
+}
+
+.dashboard-product-list {
+  display: flex;
 }
 
 /*# sourceMappingURL=styles.css.map */

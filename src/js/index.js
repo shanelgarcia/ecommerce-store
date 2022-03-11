@@ -1,22 +1,24 @@
 //FIREBASE
-import {ref, get} from "firebase/database";
-import {db} from './libs/firebase/firebaseconfig';
+import {ref as dbRef, get} from "firebase/database";
+import {ref as storageRef, getDownloadURL} from "firebase/storage";
+import {db, storage } from './libs/firebase/firebaseconfig';
 import {productCard} from './template/productCard'
 
 async function productDataInit()
 {
-    //firebase
-    const productRef = ref(db, "product/")
+    //firebase realtime db
+    const productRef = dbRef(db, "product/")
     const productSnapshot = await get(productRef) 
     const productData = productSnapshot.val();
 
-    document.body.append
-    Object.keys(productData).map(key => {
-        productData[key].id = key
+    //firebase storage
 
-        console.log(productData[key].title);
+    //product card
+    const productCards = Object.values(productData).map(product =>{
+        const card = productCard(product)
+        document.body.append(card)
 
-        return productData[key];
+        return card
     })
 }
 
