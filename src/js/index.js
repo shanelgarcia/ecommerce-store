@@ -1,7 +1,7 @@
 //FIREBASE
 import {ref, get} from "firebase/database";
 import {db} from './libs/firebase/firebaseconfig';
-import {productCard} from 'templa'
+import {productCard} from './template/productCard'
 
 async function productDataInit()
 {
